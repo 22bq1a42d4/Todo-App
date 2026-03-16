@@ -24,13 +24,11 @@ It is designed as a **production-style Flutter application for portfolio demonst
 
 ---
 
-# 🌐 Live Demo
+# 📦 Release
 
-| Platform | Link |
-|--------|------|
-| GitHub Repository | https://github.com/YOUR_USERNAME/flutter-premium-todo-app |
-| Download APK | Coming Soon |
-| Demo Video | Coming Soon |
+| Platform | Download |
+|--------|--------|
+| Android | [Download APK](https://github.com/22bq1a42d4/Todo-App/raw/main/apk/taskmaster.apk) |
 
 ---
 
